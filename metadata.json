@@ -1,0 +1,5 @@
+{
+  "name": "PDF Text Replacer",
+  "description": "An application to perform find-and-replace operations on text within a PDF file, preserving the original layout, formatting, and design. Ideal for updating templates.",
+  "requestFramePermissions": []
+}
